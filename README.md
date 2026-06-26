@@ -17,12 +17,13 @@
 
 ## About Me
 
-Software Engineer with a BS in Software Engineering and 3+ years of freelance experience in AI/ML development, full-stack engineering, and UI/UX design. I build complete products end-to-end — from training custom models and architecting data pipelines to designing interfaces and deploying to production.
+Software Engineer with a BS in Software Engineering, combining 3+ years of freelance experience across web development, UI/UX design, graphic design, digital marketing, and social media management — with close to 1 year of focused AI/ML engineering. I build complete products end-to-end — from training custom models and architecting data pipelines to designing interfaces and deploying to production.
 
 - Founder of **ZENSINC** — an AI automation startup building LLM-powered agents, RAG pipelines, and agentic workflow systems for business clients across marketing, sales, and operations
 - Creator of **NestInsights** — a full-stack consumer intelligence platform designed for e-commerce, powered by 5 open-source Hugging Face models alongside custom-trained ML models, featuring deep AI analysis, global market intelligence, and comprehensive visual analytics
 - Delivered end-to-end web development and UI/UX work for **Washington Capitals Sports Club**
-- 3 years of freelance experience delivering AI tools, automation systems, web applications, and design work to international clients
+- **3+ years freelance:** web applications, app UI/UX, graphic design, digital marketing, and social media management for international clients
+- **~1 year AI/ML:** NLP pipelines, LLM orchestration, agentic systems, and production ML deployment
 - Certified by AWS, Cisco, IBM, Deloitte, Telstra, and HP Life
 
 ---
@@ -105,15 +106,18 @@ Software Engineer with a BS in Software Engineering and 3+ years of freelance ex
 
 **Domain Expertise**
 
-| Domain | Proficiency | Level |
-|---|---|---|
-| AI / ML / NLP | `████████████████████` | Expert |
-| Full-Stack (MERN) | `████████████████████` | Expert |
-| AI Automation & RAG | `██████████████████░░` | Advanced |
-| UI/UX & Design | `██████████████████░░` | Advanced |
-| Data Analytics | `████████████████░░░░` | Advanced |
-| Cloud & DevOps | `████████████░░░░░░░░` | Intermediate |
-| Cybersecurity | `████████████░░░░░░░░` | Intermediate |
+| Domain | Experience | Proficiency | Level |
+|---|---|---|---|
+| Web Development | 3+ yrs | `████████████████████` | Expert |
+| UI/UX & App Design | 3+ yrs | `████████████████████` | Expert |
+| Graphic Design | 3+ yrs | `██████████████████░░` | Advanced |
+| Digital Marketing | 3+ yrs | `██████████████████░░` | Advanced |
+| Social Media Management | 3+ yrs | `██████████████████░░` | Advanced |
+| AI / ML / NLP | ~1 yr | `████████████████░░░░` | Advanced |
+| AI Automation & RAG | ~1 yr | `████████████████░░░░` | Advanced |
+| Data Analytics | ~1 yr | `██████████████░░░░░░` | Intermediate+ |
+| Cloud & DevOps | ~1 yr | `████████████░░░░░░░░` | Intermediate |
+| Cybersecurity | ~1 yr | `████████████░░░░░░░░` | Intermediate |
 
 ---
 
