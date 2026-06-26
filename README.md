@@ -90,34 +90,30 @@ Software Engineer with a BS in Software Engineering and 3+ years of freelance ex
 ## Skills Overview
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zain-ul-abideen-1&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=AI+%2F+ML+Engineer;Full-Stack+Developer+(MERN);Startup+Founder+%40+ZENSINC;NLP+%7C+LLMs+%7C+RAG+Pipelines;3%2B+Years+Freelance+Experience" alt="Typing SVG" />
 </p>
 
-**Languages & Proficiency**
+**Programming Languages**
 
-```
-Python          ████████████████████  Expert
-JavaScript      ████████████████░░░░  Advanced
-SQL             ████████████████░░░░  Advanced
-C++             ████████████░░░░░░░░  Intermediate
-Bash            ████████████░░░░░░░░  Intermediate
-```
+| Language | Proficiency | Level |
+|---|---|---|
+| Python | `████████████████████` | Expert |
+| JavaScript | `████████████████░░░░` | Advanced |
+| SQL | `████████████████░░░░` | Advanced |
+| C++ | `████████████░░░░░░░░` | Intermediate |
+| Bash | `██████████░░░░░░░░░░` | Intermediate |
 
 **Domain Expertise**
 
-```
-AI / ML / NLP           ████████████████████  Expert
-Full-Stack (MERN)       ████████████████████  Expert
-AI Automation & RAG     ██████████████████░░  Advanced
-UI/UX & Design          ██████████████████░░  Advanced
-Data Analytics          ████████████████░░░░  Advanced
-Cloud & DevOps          ████████████░░░░░░░░  Intermediate
-Cybersecurity           ████████████░░░░░░░░  Intermediate
-```
+| Domain | Proficiency | Level |
+|---|---|---|
+| AI / ML / NLP | `████████████████████` | Expert |
+| Full-Stack (MERN) | `████████████████████` | Expert |
+| AI Automation & RAG | `██████████████████░░` | Advanced |
+| UI/UX & Design | `██████████████████░░` | Advanced |
+| Data Analytics | `████████████████░░░░` | Advanced |
+| Cloud & DevOps | `████████████░░░░░░░░` | Intermediate |
+| Cybersecurity | `████████████░░░░░░░░` | Intermediate |
 
 ---
 
@@ -210,6 +206,17 @@ Simulated smart home network integrating router, switch, home gateway, and wirel
 | Cybersecurity Fundamentals | IBM | 2025 |
 | Data Analyst Job Simulation | Deloitte (Forage) | 2025 |
 | Cybersecurity Job Simulation | Telstra (Forage) | 2025 |
+
+---
+
+## Spoken Languages
+
+| Language | Level | Proficiency |
+|---|---|---|
+| Urdu | Native | `████████████████████` |
+| Punjabi | Native | `████████████████████` |
+| English | C1 — Professional | `████████████████░░░░` |
+| German | A2 — Elementary | `██████░░░░░░░░░░░░░░` |
 
 ---
 
